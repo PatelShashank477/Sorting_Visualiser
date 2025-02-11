@@ -82,15 +82,4 @@ To use this project, ensure you have the following installed:
 3. Provide input data (manual entry or predefined datasets).
 4. Click `Visualize` to see the sorting process in action.
 
----
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-
-
-- Inspired by various Sorting_Visualiser projects and educational tools.
-- Built using Qt Creator for a robust graphical interface.
-
-[Uploading BTech_CSE_IIIT_Manipur_Project_V_Sem.pdf…]()

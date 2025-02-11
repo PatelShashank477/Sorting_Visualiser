@@ -1,8 +1,7 @@
 # Sorting_Visualiser
 
 Sorting_Visualiser is a project designed to help users understand and visualize how various sorting algorithms work. It provides a graphical interface to demonstrate sorting step-by-step, making it an excellent tool for educational purposes.
-
-##Documentation
+# Documentation
 
 
 [Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf](https://github.com/user-attachments/files/18757410/Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf)

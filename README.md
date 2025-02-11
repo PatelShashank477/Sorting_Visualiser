@@ -2,7 +2,13 @@
 
 Sorting_Visualiser is a project designed to help users understand and visualize how various sorting algorithms work. It provides a graphical interface to demonstrate sorting step-by-step, making it an excellent tool for educational purposes.
 
----
+##Documentation
+
+
+---[Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf](https://github.com/user-attachments/files/18757410/Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf)
+
+
+
 
 ## Features
 
@@ -83,9 +89,7 @@ To use this project, ensure you have the following installed:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
----
 
-## Acknowledgments
 
 - Inspired by various Sorting_Visualiser projects and educational tools.
 - Built using Qt Creator for a robust graphical interface.

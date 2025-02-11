@@ -5,7 +5,7 @@ Sorting_Visualiser is a project designed to help users understand and visualize 
 ##Documentation
 
 
----[Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf](https://github.com/user-attachments/files/18757410/Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf)
+[Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf](https://github.com/user-attachments/files/18757410/Shashank_patel_220103027_BTech_CSE_IIIT_Manipur.pdf)
 
 
 
